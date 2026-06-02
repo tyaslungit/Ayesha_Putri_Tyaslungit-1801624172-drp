@@ -1,5 +1,4 @@
-
-Nama: Ayesha Putri Tyaslungit
-
-NIM: 1801624172
 ===============
+Nama: Ayesha Putri Tyaslungit
+===============
+NIM: 1801624172
